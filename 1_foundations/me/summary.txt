@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I’m a Product Manager focused on building technology that makes search, communication, and learning more intelligent and inclusive. At NCBI, NIH, I’m helping modernize biomedical search infrastructure used by 6+ million people daily. My work spans analytics pipelines, user research, and roadmap development for a next-generation semantic search experience that explores the use of GenAI and large language models (LLMs).
+
+Previously, I worked with a startup building speech accessibility tools using automatic speech recognition (ASR) systems and LLMs to support real-time communication for users with atypical speech. I also design side projects that apply GenAI to learning and decision-making problems, integrating prompt engineering, knowledge graphs, and real-time data.
+
+With experience across government platforms, early-stage startups, and applied machine learning (ML) research, I bring a product mindset grounded in execution, user empathy, and technical fluency.
+
+I’m open to roles in product management, applied AI, or innovation-focused teams building meaningful, user-centered systems. Let’s connect if you're building in these spaces.

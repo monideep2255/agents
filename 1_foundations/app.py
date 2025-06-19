@@ -18,7 +18,7 @@ load_dotenv(override=True)
 
 # Check if required environment variables are set
 def check_env_vars():
-    required_vars = ['OPENAI_API_KEY', 'PUSHOVER_USER', 'PUSHOVER_TOKEN']
+    required_vars = ['OPENAI_API_KEY']  # Only OpenAI API key is required
     missing_vars = []
     for var in required_vars:
         if not os.getenv(var):

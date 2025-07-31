@@ -1,24 +1,28 @@
-# Dinner Report: Le Bernardin
+# Dinner Report: Le Diplomate
 
-## Restaurant Overview
-- **Name**: Le Bernardin
-- **Address**: 155 W 51st St, New York, NY 10019
-- **Phone**: (212) 554-1515
-- **Website**: [le-bernardin.com](http://le-bernardin.com)
-
-## Cuisine
-Le Bernardin specializes in refined seafood dishes, crafted with the utmost respect for the ingredients. The menu includes a variety of seafood preparations, with an emphasis on freshness and simplicity.
+**Name:** Le Diplomate  
+**Address:** 1601 14th St NW, Washington, DC 20009  
+**Phone:** (202) 332-3333  
 
 ## Menu Highlights
-- **Tuna Tartare**: Diced raw tuna, served with toasted sesame and avocado.
-- **Wild Salmon**: Lightly cooked, served with a warm ginger-soy emulsion and bok choy.
-- **Poached Lobster**: Accompanied by truffle butter and a delicate sauce.
-- **Chocolate Soufflé**: A classic dessert, rich and airy.
+- Onion Soup Gratinée  
+- Steak Frites  
+- Escargots  
+- Bouillabaisse  
+- Cassoulet
 
-## Ambiance
-The atmosphere at Le Bernardin is elegant and serene, characterized by minimalist decor and a focus on the dining experience.
+![Le Diplomate](https://lediplomatedc.com/)  
 
-## Summary of Reviews
-Le Bernardin has consistently received rave reviews for its exceptional cuisine and impeccable service. It is a three-Michelin star restaurant, recognized as one of the best seafood restaurants not only in New York but also in the world. Diners emphasize the harmonious flavors and the artistry of the dishes, making it a top choice for special occasions.
+### Reviews
+Le Diplomate has been praised for its ambiance and quality of food, described as a stunning old-school Parisian brasserie with a gorgeous bar. The restaurant delivers consistently excellent service and a memorable dining experience. Many reviews highlight the extensive menu featuring Gallic classics, as well as its thoughtfully curated wine list and cocktail program.
 
-**In conclusion**, Le Bernardin represents the pinnacle of fine dining, offering diners an unforgettable experience centered around seafood excellence.
+### Timings
+- **Monday - Thursday:** 11:30 am - 11:00 pm  
+- **Friday:** 11:30 am - 12:00 am  
+- **Saturday:** 9:30 am - 12:00 am  
+- **Sunday:** 9:30 am - 11:00 pm  
+
+[Website](https://lediplomatedc.com)  
+[Google Maps Location](https://www.google.com/maps/place/Le+Diplomate/@38.9113681,-77.0337611,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e98b248281:0xd4a7e9dfb8af8964!8m2!3d38.9113639!4d-77.0315724)  
+**Enjoy your dinner!**  
+
